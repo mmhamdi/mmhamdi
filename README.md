@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mhamdi</h1>
-<h3 align="center">A passionate DevOps engineer from Germany 🇩🇪</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+engineer+;DevOps+engineer+)](https://git.io/typing-svg)
 
 - 🌱 I’m currently mastering **Kubernetes, Terraform, and AWS**
 - 🛠️ I’ve worked with: `AWS`, `GCP`, `Terraform`, `Kubernetes`, `GitLab CI`, , `jenkins`,`Ansible`, `Docker`, `Python` , `ArgoCD` , `Grafana` , `Prometheus` , `ELK` , `Opentelemtry`
