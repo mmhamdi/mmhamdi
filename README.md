@@ -5,7 +5,7 @@
 
 ---
 
-🔭 I’m a passionate **Cloud & DevOps Engineer** with hands-on experience in building reliable, scalable, and secure infrastructure in AWS & GCP.  
+🔭 I’m a passionate **Cloud & DevOps Engineer** with hands-on experience in building reliable, scalable, and secure infrastructure in AWS & Azure.  
 💡 Obsessed with automation, clean code, and improving developer experience.  
 🌍 Driven by purpose — committed to sustainability and solving real-world infrastructure challenges.  
 
