@@ -58,7 +58,7 @@
 ### 🎓 Certifications
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **CKA: Certified Kubernetes Administrator**
-- ✅ **Terraform Associate**
+- ✅ **Terraform Associate 003**
 - ✅ **Ansible Automation**
 - ✅ **GitLab CI/CD Specialist**
 
