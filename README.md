@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mhamdi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=DevOps+Engineer+%F0%9F%92%BB;Cloud+Engineer+%E2%98%81%EF%B8%8F;Automation+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+engineer++%7C+DevOps+engineer+" alt="Typing SVG" /></a>
 </p>
 
 ---
